@@ -1,5 +1,3 @@
-This is Line 1: Hello
+February 11, 2016
 
-This is Line 3: THIS WAS ADDED BY JESSE SECOND
-
-This is Line 5: THIS WAS ADDED BY JESSE
+Nuked and rewrote Experiment text file
