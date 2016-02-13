@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 0f4f7ec2612551b4495961379fb44c96
+timeCreated: 1455177417
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monkeyrun Pencil Test 1 sprite sheet_0
+    21300002: Monkeyrun Pencil Test 1 sprite sheet_1
+    21300004: Monkeyrun Pencil Test 1 sprite sheet_2
+    21300006: Monkeyrun Pencil Test 1 sprite sheet_3
+    21300008: Monkeyrun Pencil Test 1 sprite sheet_4
+    21300010: Monkeyrun Pencil Test 1 sprite sheet_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monkeyrun Pencil Test 1 sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 700
+        width: 149
+        height: 89
+      alignment: 9
+      pivot: {x: 0.7469608, y: 0.5516803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.297165, y: -45.09955}
+        - {x: -53.297165, y: -49.09955}
+        - {x: 28.702835, y: -49.09955}
+        - {x: 28.702835, y: -19.099548}
+        - {x: 20.702835, y: 17.900452}
+        - {x: -75.297165, y: 17.900452}
+        - {x: -111.297165, y: -22.099548}
+        - {x: -111.297165, y: -46.09955}
+        - {x: -106.297165, y: -48.09955}
+        - {x: -104.297165, y: -49.09955}
+        - {x: -95.297165, y: -49.09955}
+        - {x: -92.297165, y: -46.09955}
+        - {x: -90.297165, y: -41.09955}
+        - {x: -90.297165, y: -38.09955}
+    - name: Monkeyrun Pencil Test 1 sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 559
+        width: 154
+        height: 107
+      alignment: 9
+      pivot: {x: 0.7216882, y: 0.6256925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.1399841, y: 22.050903}
+        - {x: -65.139984, y: 22.050903}
+        - {x: -93.139984, y: -20.949097}
+        - {x: -93.139984, y: -51.949097}
+        - {x: -89.139984, y: -53.949097}
+        - {x: -58.139984, y: -59.949097}
+        - {x: -15.139984, y: -59.949097}
+        - {x: 11.860016, y: -12.949097}
+        - {x: 12.860016, y: -5.9490967}
+        - {x: 12.860016, y: 16.050903}
+    - name: Monkeyrun Pencil Test 1 sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 445
+        width: 152
+        height: 97
+      alignment: 9
+      pivot: {x: 0.7041866, y: 0.5853234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.036377, y: 20.223633}
+        - {x: -47.036377, y: 17.223633}
+        - {x: -71.03638, y: -15.776367}
+        - {x: -71.03638, y: -48.776367}
+        - {x: -61.036377, y: -55.776367}
+        - {x: -6.036377, y: -55.776367}
+        - {x: 5.963623, y: -45.776367}
+        - {x: 13.963623, y: -11.776367}
+        - {x: 13.963623, y: 15.223633}
+        - {x: 0.96362305, y: 20.223633}
+    - name: Monkeyrun Pencil Test 1 sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 308
+        width: 149
+        height: 100
+      alignment: 9
+      pivot: {x: 0.63192177, y: 0.59310913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.15634, y: 18.689087}
+        - {x: -61.15634, y: 0.6890869}
+        - {x: -61.15634, y: -23.310913}
+        - {x: -44.15634, y: -59.310913}
+        - {x: -1.1563416, y: -59.310913}
+        - {x: 38.84366, y: -49.310913}
+        - {x: 39.84366, y: -45.310913}
+        - {x: 39.84366, y: -23.310913}
+        - {x: 10.843658, y: 18.689087}
+    - name: Monkeyrun Pencil Test 1 sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 170
+        width: 158
+        height: 116
+      alignment: 9
+      pivot: {x: 0.65059835, y: 0.5624295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.2054596, y: -55.24182}
+        - {x: 40.20546, y: -55.24182}
+        - {x: 40.20546, y: -28.241821}
+        - {x: 23.20546, y: 16.758179}
+        - {x: -60.79454, y: 16.758179}
+        - {x: -82.79454, y: -15.241821}
+        - {x: -82.79454, y: -39.24182}
+        - {x: -74.79454, y: -50.24182}
+        - {x: -45.79454, y: -55.24182}
+        - {x: -36.79454, y: -55.24182}
+        - {x: -31.79454, y: -51.24182}
+        - {x: -31.79454, y: -48.24182}
+        - {x: -35.79454, y: -44.24182}
+    - name: Monkeyrun Pencil Test 1 sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 164
+        height: 114
+      alignment: 9
+      pivot: {x: 0.682938, y: 0.6179748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.00183, y: 17.550873}
+        - {x: -106.00183, y: -9.449127}
+        - {x: -106.00183, y: -35.449127}
+        - {x: -100.00183, y: -49.449127}
+        - {x: 43.99817, y: -49.449127}
+        - {x: 43.99817, y: -25.449127}
+        - {x: 4.998169, y: 17.550873}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
