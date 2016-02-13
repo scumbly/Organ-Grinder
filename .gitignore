@@ -18,11 +18,16 @@
 *.booproj
 *.svd
 
+
 # Unity3D generated meta files
 /Platformertest/*.pidb.meta
 
 # Unity3D Generated File On Crash Reports
 /Platformertest/sysinfo.txt
+
+# Builds
+/Platformertest/*.apk
+/Platformertest/*.unitypackage
 
 # Other
 /Ignored-By-Git/
