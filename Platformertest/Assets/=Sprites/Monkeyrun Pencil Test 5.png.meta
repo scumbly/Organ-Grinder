@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 7da90443378b748ea9fa2e603ae35a74
+timeCreated: 1455403420
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monkey Run 1
+    21300002: Monkey Jump
+    21300004: Monkey Run 2
+    21300006: Monkey Wallslide
+    21300008: Monkey Run 3
+    21300010: Monkey Ledgeclimb
+    21300012: Monkey Run 4
+    21300014: Monkey Run 5
+    21300016: Monkey Run 6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monkey Run 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 27.100098}
+        - {x: -3.5, y: 27.100098}
+        - {x: -11.5, y: 26.100098}
+        - {x: -42.5, y: 5.1000977}
+        - {x: -42.5, y: -4.8999023}
+        - {x: -39.5, y: -14.899902}
+        - {x: 34.5, y: -14.899902}
+        - {x: 34.5, y: -1.8999023}
+        - {x: 28.5, y: 17.100098}
+    - name: Monkey Jump
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.900002, y: 13.100098}
+        - {x: 34.9, y: 11.100098}
+        - {x: 35.9, y: 15.100098}
+        - {x: 35.9, y: 39.100098}
+        - {x: -32.1, y: 39.100098}
+        - {x: -34.1, y: 38.100098}
+        - {x: -34.1, y: 23.100098}
+        - {x: -33.1, y: 16.100098}
+        - {x: -19.099998, y: 17.100098}
+        - {x: -16.099998, y: -14.899902}
+        - {x: 19.900002, y: -14.899902}
+        - {x: 21.900002, y: -10.899902}
+        - {x: 19.900002, y: 11.100098}
+        - {x: 16.900002, y: 14.100098}
+    - name: Monkey Run 2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 28.700073}
+        - {x: -31.5, y: 10.700073}
+        - {x: -31.5, y: -13.299927}
+        - {x: -21.5, y: -16.299927}
+        - {x: 13.5, y: -16.299927}
+        - {x: 24.5, y: 2.7000732}
+        - {x: 24.5, y: 22.700073}
+        - {x: 20.5, y: 28.700073}
+    - name: Monkey Wallslide
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.9000015, y: -33.299927}
+        - {x: 7.9000015, y: -42.299927}
+        - {x: 13.900002, y: -42.299927}
+        - {x: 13.900002, y: 23.700073}
+        - {x: -7.0999985, y: 40.700073}
+        - {x: -23.099998, y: 40.700073}
+        - {x: -23.099998, y: -42.299927}
+        - {x: -16.099998, y: -42.299927}
+        - {x: -14.099998, y: -40.299927}
+        - {x: 0.9000015, y: -24.299927}
+        - {x: 0.9000015, y: -21.299927}
+    - name: Monkey Run 3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 29.800049}
+        - {x: -21.5, y: 12.800049}
+        - {x: -21.5, y: -7.199951}
+        - {x: -20.5, y: -9.199951}
+        - {x: -17.5, y: -10.199951}
+        - {x: 11.5, y: -10.199951}
+        - {x: 23.5, y: 6.800049}
+        - {x: 23.5, y: 27.800049}
+        - {x: 21.5, y: 29.800049}
+    - name: Monkey Ledgeclimb
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.099998, y: 18.800049}
+        - {x: -27.099998, y: -6.199951}
+        - {x: -20.099998, y: -31.199951}
+        - {x: -13.099998, y: -36.19995}
+        - {x: -2.0999985, y: -36.19995}
+        - {x: 39.9, y: -8.199951}
+        - {x: 39.9, y: -0.19995117}
+        - {x: -1.0999985, y: 18.800049}
+    - name: Monkey Run 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -12.099976}
+        - {x: 37.5, y: -12.099976}
+        - {x: 37.5, y: 13.900024}
+        - {x: 29.5, y: 28.900024}
+        - {x: -3.5, y: 28.900024}
+        - {x: -15.5, y: 21.900024}
+    - name: Monkey Run 5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 20.500122}
+        - {x: -25.5, y: 15.500122}
+        - {x: -25.5, y: -13.499878}
+        - {x: -22.5, y: -17.499878}
+        - {x: 38.5, y: -17.499878}
+        - {x: 38.5, y: 20.500122}
+    - name: Monkey Run 6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 20.600098}
+        - {x: -33.5, y: 7.6000977}
+        - {x: -33.5, y: -16.399902}
+        - {x: 46.5, y: -16.399902}
+        - {x: 46.5, y: -0.39990234}
+        - {x: 32.5, y: 20.600098}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
