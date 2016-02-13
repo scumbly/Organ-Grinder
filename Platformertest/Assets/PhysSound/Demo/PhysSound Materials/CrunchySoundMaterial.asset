@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1a46b85acec488479294b28044c0b36, type: 3}
+  m_Name: CrunchySoundMaterial
+  m_EditorClassIdentifier: 
+  MaterialTypeKey: 3
+  FallbackTypeIndex: 1
+  FallbackTypeKey: 3
+  PitchRandomness: 0.1
+  SlidePitchMod: 0.05
+  RelativeVelocityThreshold:
+    Min: 0
+    Max: 19
+  ImpactNormalBias: 0.579
+  UseCollisionVelocity: 1
+  ScaleImpactVolume: 0
+  AudioSets:
+  - Key: 3
+    Impacts:
+    - {fileID: 8300000, guid: ca2afe2eb186f2248bdf11ce489c55f2, type: 3}
+    - {fileID: 8300000, guid: afa044329919e9b4a8c4b9314cb2f8ae, type: 3}
+    - {fileID: 8300000, guid: 0adddf70ce34e0940809dd547075b4b4, type: 3}
+    - {fileID: 8300000, guid: e92bd918f48dada4f8da1b8a159885c7, type: 3}
+    - {fileID: 8300000, guid: c4d21b94229c8c7458e6d6d128a58893, type: 3}
+    - {fileID: 8300000, guid: 053a0a5ea2c02b342b0e6e52fba9508d, type: 3}
+    - {fileID: 8300000, guid: a848394d59e5e414595a3e9c62a893f5, type: 3}
+    - {fileID: 8300000, guid: 93607a950edfc584a8f2e2d86e8c3c54, type: 3}
+    Slide: {fileID: 0}
+  - Key: 0
+    Impacts:
+    - {fileID: 8300000, guid: 94619f80dd09282429d4923bd1353207, type: 3}
+    - {fileID: 8300000, guid: ea477303edc05924e9ac2b601b8d21ab, type: 3}
+    - {fileID: 8300000, guid: 6898ead3978f3f24abde360099bc5ad2, type: 3}
+    - {fileID: 8300000, guid: 26310e1685b61dd49949544ac7b81735, type: 3}
+    Slide: {fileID: 0}
+  - Key: 1
+    Impacts:
+    - {fileID: 8300000, guid: ca2afe2eb186f2248bdf11ce489c55f2, type: 3}
+    - {fileID: 8300000, guid: afa044329919e9b4a8c4b9314cb2f8ae, type: 3}
+    - {fileID: 8300000, guid: 0adddf70ce34e0940809dd547075b4b4, type: 3}
+    - {fileID: 8300000, guid: e92bd918f48dada4f8da1b8a159885c7, type: 3}
+    - {fileID: 8300000, guid: c4d21b94229c8c7458e6d6d128a58893, type: 3}
+    - {fileID: 8300000, guid: 053a0a5ea2c02b342b0e6e52fba9508d, type: 3}
+    Slide: {fileID: 8300000, guid: 23d13f52b5a01964e82ea27791642175, type: 3}

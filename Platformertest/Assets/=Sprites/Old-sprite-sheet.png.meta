@@ -1,0 +1,1082 @@
+fileFormatVersion: 2
+guid: ab2ea71a3ece76746b952a43d4e521be
+timeCreated: 1430258436
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Prun1
+    21300002: Prun2
+    21300004: Prun3
+    21300006: Prun4
+    21300008: Prun5
+    21300010: Prun6
+    21300012: Pjump1
+    21300014: PJump2
+    21300016: PrunC1
+    21300018: PrunC2
+    21300020: PrunC3
+    21300022: PrunC4
+    21300024: PrunC5
+    21300026: PrunC6
+    21300028: PjumpC1
+    21300030: PJumpC2
+    21300032: Grun1
+    21300034: Grun2
+    21300036: Grun3
+    21300038: Grun4
+    21300040: Grun5
+    21300042: Grun6
+    21300044: GJump1
+    21300046: Gjump2
+    21300048: GrunC1
+    21300050: GrunC2
+    21300052: GrunC3
+    21300054: GrunC4
+    21300056: GrunC5
+    21300058: master-sprite-sheet_29
+    21300060: GjumpC1
+    21300062: GjumpC2
+    21300064: PSpawn1
+    21300066: PSpawn2
+    21300068: PSpawn3
+    21300070: PSpawn4
+    21300072: PSpawn5
+    21300074: GSpawn1
+    21300076: GSpawn2
+    21300078: GSpawn3
+    21300080: GSpawn4
+    21300082: GSpawn5
+    21300084: Gib1
+    21300086: Gibhead
+    21300088: Gib2
+    21300090: Gib3
+    21300092: Gib4
+    21300094: Gib5
+    21300096: gib6
+    21300098: gib8
+    21300100: gib9
+    21300102: gib10
+    21300104: Gib11
+    21300106: Gib12
+    21300108: gib13
+    21300110: gib14
+    21300112: gib15
+    21300114: master-sprite-sheet_57
+    21300116: Blood1
+    21300118: Blood2
+    21300120: Blood3
+    21300122: Blood4
+    21300124: Blood5
+    21300126: Blood6
+    21300128: Saw1a
+    21300130: Saw1b
+    21300132: Saw2a
+    21300134: Saw2b
+    21300136: Saw3a
+    21300138: Saw3b
+    21300140: Saw4a
+    21300142: Saw4b
+    21300144: Saw5a
+    21300146: Saw5b
+    21300148: Remote
+    21300150: Platform
+    21300152: Block1
+    21300154: Block2
+    21300156: Block3
+    21300158: Block4
+    21300160: Spikeup
+    21300162: Spikedown
+    21300164: gib7
+    21300166: master-sprite-sheet_0
+    21300168: Saw6b
+    21300170: Saw61
+    21300172: master-sprite-sheet_1
+    21300174: master-sprite-sheet_2
+    21300176: master-sprite-sheet_3
+    21300178: master-sprite-sheet_4
+    21300180: TuktukPurple
+    21300182: TuktukGreen
+    21300184: Tuktukempty
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Prun1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 510
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prun2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 510
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prun3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 510
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prun4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 510
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prun5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 510
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prun6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 510
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pjump1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 510
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PJump2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 511
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PrunC1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 510
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PrunC2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 510
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PrunC3
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 511
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PrunC4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 510
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PrunC5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 510
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PrunC6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 510
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PjumpC1
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 510
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PJumpC2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 511
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grun1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 460
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grun2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 460
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grun3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 460
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grun4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 460
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grun5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 460
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grun6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 460
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GJump1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 460
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gjump2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 461
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrunC1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 460
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrunC2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 460
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrunC3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 460
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrunC4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 460
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrunC5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 460
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: master-sprite-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 460
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GjumpC1
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 460
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GjumpC2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 461
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PSpawn1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 408
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PSpawn2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 405
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PSpawn3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 404
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PSpawn4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 405
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PSpawn5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 408
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GSpawn1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 358
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GSpawn2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 355
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GSpawn3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 354
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GSpawn4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 355
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GSpawn5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 358
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gib1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 320
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gibhead
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 318
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gib2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 320
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gib3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 321
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gib4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 320
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gib5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 320
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gib6
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 324
+        width: 7
+        height: 3
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gib8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 322
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gib9
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 320
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gib10
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 323
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gib11
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 324
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gib12
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 324
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gib13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 322
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gib14
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 321
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gib15
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 322
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: master-sprite-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 278
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 267
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 264
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 266
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 267
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 268
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 268
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw1a
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw1b
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 200
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw2a
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 200
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw2b
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 200
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw3a
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 200
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw3b
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 200
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw4a
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 200
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw4b
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 200
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw5a
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 200
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw5b
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 200
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Remote
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 162
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Platform
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 175
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 165
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 165
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 165
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Block4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 165
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spikeup
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 165
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spikedown
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 165
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gib7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 321
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: master-sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 281
+        width: 3
+        height: 3
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw6b
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 200
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw61
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 200
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: master-sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 354
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: master-sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 410
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: master-sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: master-sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 405
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TuktukPurple
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TuktukGreen
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tuktukempty
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
