@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 7da90443378b748ea9fa2e603ae35a74
-timeCreated: 1455779148
+timeCreated: 1455779209
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -22,7 +22,7 @@ TextureImporter:
     21300030: Monkey Idle 4
     21300032: Monkey Jump Transition
     21300034: Monkey Jump 2
-    21300036: Monkeyrun Pencil Test 5_0
+    21300036: Monkey Jump 3
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -479,7 +479,7 @@ TextureImporter:
         - {x: -1.8999939, y: -10.899902}
         - {x: -2.899994, y: -0.89990234}
         - {x: 1.1000061, y: -1.8999023}
-    - name: Monkeyrun Pencil Test 5_0
+    - name: Monkey Jump 3
       rect:
         serializedVersion: 2
         x: 1000
