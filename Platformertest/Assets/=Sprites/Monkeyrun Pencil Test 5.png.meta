@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 7da90443378b748ea9fa2e603ae35a74
-timeCreated: 1455782281
+timeCreated: 1455782675
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -16,7 +16,7 @@ TextureImporter:
     21300018: Monkey Turn 2
     21300020: Monkey Turn 1
     21300022: Monkey Idle
-    21300024: Monkey Jump Up
+    21300024: Monkey Jump 0 - Launch
     21300026: Monkey Idle 2
     21300028: Monkey Idle 3
     21300030: Monkey Idle 4
@@ -27,6 +27,8 @@ TextureImporter:
     21300040: Monkey Ledgeclimb 2
     21300042: Monkey Ledgeclimb 3
     21300044: Monkey Ledgeclimb 4
+    21300046: Monkey Jump
+    21300048: Monkey Idle 1
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -296,7 +298,7 @@ TextureImporter:
         - {x: -11.099998, y: -9.499878}
         - {x: -0.099998474, y: -14.499878}
         - {x: 21.900002, y: -14.499878}
-    - name: Monkey Idle
+    - name: Monkey Idle 1
       rect:
         serializedVersion: 2
         x: 200
@@ -318,7 +320,7 @@ TextureImporter:
         - {x: 29.900002, y: 23.600098}
         - {x: 26.900002, y: 24.600098}
         - {x: 24.900002, y: 22.600098}
-    - name: Monkey Jump Up
+    - name: Monkey Jump 0 - Launch
       rect:
         serializedVersion: 2
         x: 400
