@@ -33,7 +33,7 @@ MonoBehaviour:
   forcesFoldout: 1
   manipulatorsFoldout: 0
   eventsFoldout: 0
-  collisionFoldout: 0
+  collisionFoldout: 1
   renderingFoldout: 1
   advancedFoldout: 0
   saveLoadFoldout: 0
@@ -43,22 +43,22 @@ MonoBehaviour:
   textureSheetAnimationFoldout: 0
   splineListFoldout: 1
   transformListFoldout: 1
-  particleSettingsParticleCountFoldout: 0
+  particleSettingsParticleCountFoldout: 1
   particleSettingsOverflowOffsetFoldout: 0
-  particleSettingsScatterFoldout: 0
+  particleSettingsScatterFoldout: 1
   particleSettingsEmissionFoldout: 1
-  particleSettingsSizeFoldout: 0
-  particleSettingsRotationFoldout: 0
+  particleSettingsSizeFoldout: 1
+  particleSettingsRotationFoldout: 1
   particleSettingsLifetimeFoldout: 1
   particleSettingsMaskFoldout: 0
   forceAnnihilationFoldout: 1
   forceInitialVelocityFoldout: 1
   forceLifetimeVelocityFoldout: 1
   forceVelocityBendingFoldout: 1
-  forceTurbulenceFoldout: 0
+  forceTurbulenceFoldout: 1
   forceConstantForceFoldout: 1
   forceVelocityScaleFoldout: 0
-  collisionSettingsFoldout: 0
+  collisionSettingsFoldout: 1
   collisionPlanesFoldout: 0
   collisionExclusionFoldout: 0
   renderingMaterialFoldout: 1

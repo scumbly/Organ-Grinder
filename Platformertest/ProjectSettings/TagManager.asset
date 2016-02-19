@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - Belt
+  - Moving_Platform
+  - Ground
+  - ground
+  - Leftwall
+  - rightwall
+  - Wall
+  - AboveFloor
   layers:
   - Default
   - TransparentFX

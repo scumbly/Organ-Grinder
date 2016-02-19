@@ -102,3 +102,12 @@ MonoBehaviour:
   - PlayerDied
   - Respawn
   - Falling
+  - Anim_Wall
+  - COLLISION ENTER 2D
+  - COLLISION EXIT 2D
+  - COLLISION STAY 2D
+  - TRIGGER ENTER 2D
+  - TRIGGER EXIT 2D
+  - TRIGGER STAY 2D
+  - Anim_Offwall
+  - Anim_Run
