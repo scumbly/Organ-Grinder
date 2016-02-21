@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 7da90443378b748ea9fa2e603ae35a74
-timeCreated: 1455782675
+timeCreated: 1456082620
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -29,6 +29,7 @@ TextureImporter:
     21300044: Monkey Ledgeclimb 4
     21300046: Monkey Jump
     21300048: Monkey Idle 1
+    21300050: Monkey Jump 1
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -97,7 +98,7 @@ TextureImporter:
         - {x: 34.5, y: -14.899902}
         - {x: 34.5, y: -1.8999023}
         - {x: 28.5, y: 17.100098}
-    - name: Monkey Jump
+    - name: Monkey Jump 1
       rect:
         serializedVersion: 2
         x: 200
