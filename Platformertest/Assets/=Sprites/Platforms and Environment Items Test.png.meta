@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 1c69cb5f5a80142188b23706cb711764
+timeCreated: 1456100196
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: oneWayPlatformSprite
+    21300002: movingPlatformSprite
+    21300004: solidPlatformSprite
+    21300006: groundSprite
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: oneWayPlatformSprite
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3877
+        width: 474
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: movingPlatformSprite
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3669
+        width: 470
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: solidPlatformSprite
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3467
+        width: 470
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120.25188, y: 19.170532}
+        - {x: -120.25188, y: -17.829468}
+        - {x: 120.74812, y: -17.829468}
+        - {x: 120.74812, y: 19.170532}
+    - name: groundSprite
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3258
+        width: 972
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -240.75188, y: 35.68872}
+        - {x: -248.75188, y: 34.68872}
+        - {x: -248.75188, y: -31.31128}
+        - {x: -209.75188, y: -34.31128}
+        - {x: -167.75188, y: -34.31128}
+        - {x: -162.75188, y: -31.31128}
+        - {x: 249.24812, y: -31.31128}
+        - {x: 249.24812, y: 35.68872}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
