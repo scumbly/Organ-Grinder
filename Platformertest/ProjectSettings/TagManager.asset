@@ -52,3 +52,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 1280087011
+    locked: 0
+  - name: Particle
+    uniqueID: 1453222461
+    locked: 0
