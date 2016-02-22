@@ -39,12 +39,12 @@ MonoBehaviour:
   saveLoadFoldout: 0
   toolboxFoldout: 1
   paintToolboxSettingsFoldout: 1
-  sortingFoldout: 0
+  sortingFoldout: 1
   textureSheetAnimationFoldout: 0
   splineListFoldout: 1
   transformListFoldout: 1
   particleSettingsParticleCountFoldout: 1
-  particleSettingsOverflowOffsetFoldout: 0
+  particleSettingsOverflowOffsetFoldout: 1
   particleSettingsScatterFoldout: 1
   particleSettingsEmissionFoldout: 1
   particleSettingsSizeFoldout: 1

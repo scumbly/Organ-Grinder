@@ -155,7 +155,7 @@ GameObject:
   - 95: {fileID: 9571576}
   - 114: {fileID: 11494228}
   m_Layer: 0
-  m_Name: Test Monkey
+  m_Name: PlayerSprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2434,7 +2434,7 @@ MonoBehaviour:
   timeOfSnapshot: 0
   isSnapshot: 0
   shurikenParticleSystem: {fileID: 19815226}
-  particleSystemId: 0
+  particleSystemId: 1
   particleSystemGameObject: {fileID: 174370}
   particleSystemTransform: {fileID: 492162}
   particleSystemRenderer: {fileID: 19930102}
@@ -3170,7 +3170,7 @@ MonoBehaviour:
   timeOfSnapshot: 0
   isSnapshot: 0
   shurikenParticleSystem: {fileID: 19896248}
-  particleSystemId: 1
+  particleSystemId: 0
   particleSystemGameObject: {fileID: 113858}
   particleSystemTransform: {fileID: 416802}
   particleSystemRenderer: {fileID: 19916584}
