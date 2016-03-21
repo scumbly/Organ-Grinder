@@ -66,6 +66,8 @@ GameObject:
   - 114: {fileID: 11464638}
   - 114: {fileID: 11474696}
   - 95: {fileID: 9507640}
+  - 114: {fileID: 11423380}
+  - 114: {fileID: 11435372}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -1272,7 +1274,7 @@ MonoBehaviour:
     handleFixedUpdate: 0
     handleApplicationEvents: 0
   fsmTemplate: {fileID: 0}
-  eventHandlerComponentsAdded: 0
+  eventHandlerComponentsAdded: 1
 --- !u!114 &11415146
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1697,7 +1699,7 @@ MonoBehaviour:
     handleFixedUpdate: 0
     handleApplicationEvents: 0
   fsmTemplate: {fileID: 0}
-  eventHandlerComponentsAdded: 0
+  eventHandlerComponentsAdded: 1
 --- !u!114 &11418404
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2455,6 +2457,28 @@ MonoBehaviour:
   prewarmTime: 1
   prewarmCycles: 16
   particleTimescale: 1
+--- !u!114 &11423380
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 132052}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 845409985, guid: de72a6d2da64d114d95e3c5a01cfaec5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11435372
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 132052}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1148665158, guid: de72a6d2da64d114d95e3c5a01cfaec5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &11443880
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3986,7 +4010,7 @@ MonoBehaviour:
     watermark: 
     password: 
     locked: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -4003,7 +4027,7 @@ MonoBehaviour:
     handleFixedUpdate: 0
     handleApplicationEvents: 0
   fsmTemplate: {fileID: 0}
-  eventHandlerComponentsAdded: 0
+  eventHandlerComponentsAdded: 1
 --- !u!114 &11481744
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -4388,7 +4412,7 @@ MonoBehaviour:
     handleFixedUpdate: 0
     handleApplicationEvents: 0
   fsmTemplate: {fileID: 0}
-  eventHandlerComponentsAdded: 0
+  eventHandlerComponentsAdded: 1
 --- !u!114 &11494228
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -6017,7 +6041,7 @@ MonoBehaviour:
     handleFixedUpdate: 0
     handleApplicationEvents: 0
   fsmTemplate: {fileID: 0}
-  eventHandlerComponentsAdded: 0
+  eventHandlerComponentsAdded: 1
 --- !u!114 &11497346
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -13019,21 +13043,21 @@ MonoBehaviour:
     watermark: 
     password: 
     locked: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 1
     EnableBreakpoints: 1
     activeStateName: IDLE
     mouseEvents: 0
-    handleTriggerEnter: 1
+    handleTriggerEnter: 0
     handleTriggerExit: 0
     handleTriggerStay: 0
-    handleCollisionEnter: 1
-    handleCollisionExit: 1
+    handleCollisionEnter: 0
+    handleCollisionExit: 0
     handleCollisionStay: 0
     handleOnGUI: 0
-    handleFixedUpdate: 1
+    handleFixedUpdate: 0
     handleApplicationEvents: 0
   fsmTemplate: {fileID: 0}
   eventHandlerComponentsAdded: 1
